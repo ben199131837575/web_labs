@@ -1,0 +1,22 @@
+{
+  "name": "web_labs",
+  "version": "0.1.0",
+  "description": "some project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben199131837575/web_labs.git"
+  },
+  "keywords": [
+    "keywords?"
+  ],
+  "author": "Ben Owen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ben199131837575/web_labs/issues"
+  },
+  "homepage": "https://github.com/ben199131837575/web_labs#readme"
+}
